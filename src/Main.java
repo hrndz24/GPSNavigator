@@ -33,7 +33,7 @@ public class Main {
                     words = scanner.nextLine().split(" ");
                     weight = Double.parseDouble(words[2]);
                     cost = Integer.parseInt(words[3]);
-                    // in case of invalid weight found skips the line and prints the message
+                    // in case of invalid length found skips the line and prints the message
                     if(weight<=0){
                         System.out.println("\nInvalid data found in the Length(#3) column");
                         continue;
