@@ -1,3 +1,2 @@
 "# GPSNavigator"
-Gets filepath to file containing 
-Finds the shortest path between two points 
+Finds the shortest path between two points on the map of roads with distance and cost.
